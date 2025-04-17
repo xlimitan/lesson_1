@@ -37,6 +37,5 @@ public class App
         System.out.println("Cats = " + cats);
         System.out.println("Dogs = " + dogs);
         System.out.println("Tigers = " + tigers);
-
     }
 }
